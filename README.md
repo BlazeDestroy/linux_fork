@@ -9,7 +9,7 @@ If you want to see the result of the work, you need to do the following on your 
     ```sh
     $ nano test_fork.c
     ```
-   (or any name you like)
+    (or any name you like)
  
  2) Paste the code from this repository contained in the file "ex1_fork.c" into your created file.
  3) Save the file using Linux tools and hotkeys (I'm sure you know how to do this)
@@ -20,7 +20,8 @@ If you want to see the result of the work, you need to do the following on your 
  5) Run the compiled file 'test' by using './test'
      ```sh
     $ ./test
+    ```
     
-Try to catch the time to call the ```sh $ pstree``` command to see how many processes have been created.
+Try to catch the time to call the ```$ pstree``` command to see how many processes have been created.
 
 For example, experiment with a call number from 1 to 6, and you will find that the number of processes (including the parent process) will be a power of 2.
