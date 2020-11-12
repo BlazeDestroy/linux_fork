@@ -13,7 +13,7 @@ If you want to see the result of the work, you need to do the following on your 
  
  2) Paste the code from this repository contained in the file "ex1_fork.c" into your created file.
  3) Save the file using Linux tools and hotkeys (I'm sure you know how to do this)
- 4) Compile your file by '' command
+ 4) Compile your file by following command
     ```sh
     $ gcc test_fork.c -o test_fork
     ```
