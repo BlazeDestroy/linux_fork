@@ -1,5 +1,5 @@
 # linux_fork
-As you learn Linux, you will come across defining processes and calling them using the fork () method for the C programming language.
+As you learn Linux, you will come across defining processes and calling them using the fork() method for the C programming language.
 
 This task simply shows how many processes on Linux are created by the fork() method depending on the number of calls to it. 
 The default is set to 3 times the fork method is called in a loop.
